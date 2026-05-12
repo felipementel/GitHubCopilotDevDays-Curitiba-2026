@@ -11,7 +11,6 @@ $packages = @(
     @{ Id = "GitHub.cli" },
     @{ Id = "GitHub.Copilot "},
     @{ Id = "Microsoft.DotNet.SDK.10" },
-    @{ Id = "Microsoft.Powershell" },
     @{ Id = "JanDeDobbeleer.OhMyPosh" },
     @{ Id = "CoreyButler.NVMforWindows" }
 )
